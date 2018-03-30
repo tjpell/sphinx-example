@@ -1,3 +1,3 @@
-.. automodule:: hw1_Pellerin_Taylor.py
+.. automodule:: sphinx-example
                 :members:
                 :undoc-members:
